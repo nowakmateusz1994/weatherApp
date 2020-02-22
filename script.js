@@ -41,3 +41,4 @@ search.addEventListener('keydown', (e) => {
     }
 });
 
+getWether('Poznań');
